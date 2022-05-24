@@ -8,7 +8,7 @@
 ## Запуск проекта:
 1. Скачиваем репозиторий:
 ```
-git clone TBD
+git clone https://github.com/egorovdanil/CycleGAN-apple2orange
 ```
 2. Переходим в папку репозитория:
 ```
